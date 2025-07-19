@@ -1,0 +1,15 @@
+{
+  "name": "words_counter",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node simple_cli_counter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}
