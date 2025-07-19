@@ -26,3 +26,34 @@ To improve the functionality and user experience, I rewrote the word counter usi
 You can run the word counter using:
 ```bash
 node word-counter.js -h
+```
+
+# CLI Todo App
+
+This is a simple command-line Todo application built with Node.js using the `commander` library. It allows you to manage your daily tasks directly from the terminal.
+
+## Features
+
+- Add tasks
+- Delete tasks
+- Mark tasks as done
+- List all tasks
+- Display helpful usage information
+
+All tasks are stored locally in a JSON file named `todos.json`.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your machine
+
+### Installation
+
+1. Clone the repository or navigate to the `cliTodo` folder:
+   ```bash
+   git clone <repository-url>
+   cd cliTodo
+```
