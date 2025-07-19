@@ -56,4 +56,4 @@ All tasks are stored locally in a JSON file named `todos.json`.
    ```bash
    git clone <repository-url>
    cd cliTodo
-```
+   npm init
